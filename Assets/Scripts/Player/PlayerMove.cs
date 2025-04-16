@@ -90,7 +90,9 @@ public class PlayerMove : MonoBehaviour
         }
         else
         {
+
             rb.gravityScale = gravityScale;
+        
         }
     }
 
